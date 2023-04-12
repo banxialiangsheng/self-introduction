@@ -7,6 +7,7 @@
 ## 谭丽华
 
 * 个人照片
+
   <img src="https://great.wzznft.com/i/2023/04/12/tan.jpg" style="zoom:90%;" />
 * 个人介绍
 
