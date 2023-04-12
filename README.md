@@ -7,8 +7,7 @@
 ## 谭丽华
 
 * 个人照片
-![](../../%E5%AD%A6%E6%A0%A1%E8%AF%BE%E7%A8%8B/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB/picture/tan-16812897285853.jpg)
-
+  <img src="https://great.wzznft.com/i/2023/04/12/tan.jpg" style="zoom:90%;" />
 * 个人介绍
 
 
