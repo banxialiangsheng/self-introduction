@@ -9,11 +9,14 @@
 * ![个人照片] (https://great.wzznft.com/i/2023/04/12/tan.jpg)
 
 * 个人介绍
+
+
   姓名：谭丽华 
   年龄：20
   学号：202013660
 
 * 教育背景
+
   学校：华中师范大学
   学院：计算机学院
   专业：计算机科学与技术（基地班）
@@ -28,7 +31,7 @@
 
 * 个人照片
 
-![](https://great.wzznft.com/i/2023/04/12/qsryee.jpg)
+![](https://great.wzznft.com/i/2023/04/12/tan.jpg)
 
 
 
