@@ -20,9 +20,7 @@
 
 * 个人照片
 
-![](https://great.wzznft.com/i/2023/04/12/qsryee.jpg)
-
-
+<img src="https://great.wzznft.com/i/2023/04/12/qsryee.jpg" style="zoom:50%;" />
 
 * 个人介绍
 
