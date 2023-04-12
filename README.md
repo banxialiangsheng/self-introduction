@@ -20,7 +20,9 @@
 
 * 个人照片
 
-<img src="E:\软件工程\self-introduction\picture\yuan.jpg" style="zoom:67%;" />
+![](https://great.wzznft.com/i/2023/04/12/qsryee.jpg)
+
+
 
 * 个人介绍
 
