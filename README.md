@@ -41,7 +41,7 @@
 
 * 个人照片
 
-<img src="https://great.wzznft.com/i/2023/04/12/qsryee.jpg" style="zoom:50%;" />
+<img src="https://great.wzznft.com/i/2023/04/12/qsryee.jpg" style="zoom:50%;" style="zoom:90%;" width="200" height="250"/>
 
 
 
@@ -94,7 +94,7 @@
   
   获评2021-2022华中师范大学校级“三好学生”。
   
-
+  
   
 
 
