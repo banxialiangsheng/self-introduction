@@ -8,7 +8,7 @@
 
 * 个人照片
 
-  <img src="https://great.wzznft.com/i/2023/04/12/tan.jpg" style="zoom:90%;" />
+  <img src="https://great.wzznft.com/i/2023/04/12/tan.jpg" style="zoom:90%;" width="150" height="150" />
 * 个人介绍
 
 
@@ -29,6 +29,10 @@
   年级：2020级
 
 * 科研项目及获奖经历
+
+获评2020-2021华中师范大学校级“三好学生”以及丹桂奖学金
+
+获评2021-2022华中师范大学校级“三好学生”以及丹桂奖学金
   
 
 
