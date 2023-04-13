@@ -68,7 +68,7 @@
 
 * 个人照片
 
-<img src="https://bhimgs.com/i/2023/04/12/w4cheq.jpg" style="zoom:50%;" />
+<img src="https://bhimgs.com/i/2023/04/12/w4cheq.jpg" style="zoom:90%;" width="150" height="200" />
 
 * 个人介绍
 
