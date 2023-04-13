@@ -8,7 +8,7 @@
 
 * 个人照片
 
-  <img src="https://great.wzznft.com/i/2023/04/12/tan.jpg" style="zoom:90%;" width="200" height="150" />
+  <img src="https://great.wzznft.com/i/2023/04/12/tan.jpg" style="zoom:90%;" width="150" height="200" />
 * 个人介绍
 
 
